@@ -1,5 +1,5 @@
 {
-    "name": "rezolve/rezolve_rce_coding_standard",
+    "name": "mavlyan/rezolve_rce_coding_standard",
     "description": "Rezolve coding standard bases on magento 2",
     "license": "MIT",
     "autoload": {
